@@ -26,3 +26,4 @@ hfuzz_workspace
 **/*.so
 **/.DS_Store
 .cache
+.cert
